@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yumamiyauchi.github.io</id>
+    <title>Yuma&apos;s Blog</title>
+    <updated>2023-04-07T05:42:18.727Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yumamiyauchi.github.io"/>
+    <link rel="self" href="https://yumamiyauchi.github.io/atom.xml"/>
+    <subtitle>博客施工中👷。</subtitle>
+    <logo>https://yumamiyauchi.github.io/images/avatar.png</logo>
+    <icon>https://yumamiyauchi.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Yuma&apos;s Blog</rights>
+</feed>
